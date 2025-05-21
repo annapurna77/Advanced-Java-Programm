@@ -37,4 +37,4 @@ Output for LinkedListReverseIteration.java-https://github.com/annapurna77/Advanc
 Output for LinkedListOfferLast.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221950.png
 
 4. Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )
-Output for LinkedListElementPositions.java-
+Output for LinkedListElementPositions.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20222319.png
