@@ -38,3 +38,6 @@ Output for LinkedListOfferLast.java-https://github.com/annapurna77/Advanced-Java
 
 4. Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )
 Output for LinkedListElementPositions.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20222319.png
+
+5 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+Output for LinkedListSwapElements.java -
