@@ -41,3 +41,7 @@ Output for LinkedListElementPositions.java-https://github.com/annapurna77/Advanc
 
 5 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
 Output for LinkedListSwapElements.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20222536.png
+
+2a. Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
+
+Output for StringOperationsDemo.java -
