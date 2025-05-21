@@ -22,4 +22,10 @@ Output for ColorSubList.java- https://github.com/annapurna77/Advanced-Java-Progr
 
 5.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index
 
-Output for ColorRemoveByIndex.java- 
+Output for ColorRemoveByIndex.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20211518.png
+
+6.1c. Linked List Programs
+
+1.Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
+
+Output for LinkedListIteratorExample.java -
