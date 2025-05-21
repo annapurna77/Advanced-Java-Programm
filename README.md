@@ -29,5 +29,6 @@ Output for ColorRemoveByIndex.java-https://github.com/annapurna77/Advanced-Java-
 1.Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 
 Output for LinkedListIteratorExample.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221324.png
+
 2.Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
 Output for LinkedListReverseIteration.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221621.png
