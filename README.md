@@ -11,4 +11,4 @@ Output for searchcolor.java-https://github.com/annapurna77/Advanced-Java-Program
 Output for ColorRemove.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20195554.png
 
 3.Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj).
-Output for ColorSort.java- 
+Output for ColorSort.java- https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20200011.png
