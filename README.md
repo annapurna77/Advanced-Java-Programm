@@ -18,4 +18,4 @@ Output for ColorSort.java- https://github.com/annapurna77/Advanced-Java-Programm
 
 4.Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()
 
-Output for ColorSubList.java -
+Output for ColorSubList.java- https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20211518.png
