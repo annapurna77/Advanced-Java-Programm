@@ -32,3 +32,6 @@ Output for LinkedListIteratorExample.java -https://github.com/annapurna77/Advan
 
 2.Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
 Output for LinkedListReverseIteration.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221621.png
+
+3.Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
+Output for LinkedListOfferLast.java -
