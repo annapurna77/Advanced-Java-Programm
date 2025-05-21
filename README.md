@@ -48,4 +48,4 @@ Output for StringOperationsDemo.java -https://github.com/annapurna77/Advanced-J
 
 2.b Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
 
-Output for StringBufferVsStringBuilderPerformance.java -
+Output for StringBufferVsStringBuilderPerformance.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-2%20StringOperations/Screenshot%202025-05-21%20223656.png
