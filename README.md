@@ -87,7 +87,8 @@ Output for CapitalizeWords.java -https://github.com/annapurna77/Advanced-Java-P
 
 Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
 
-Output for TruncateString.java -
+Output for TruncateString.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20220804.png
+
 Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
 
 Output for NumericCheck.java -
