@@ -119,7 +119,7 @@ Output for CountryListDemo.java -https://github.com/annapurna77/Advanced-Java-P
 
 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and display the concerned color whenever the specific tab is selected in the Pan.
 
-Output for ColorTabbedPaneDemo.java -
+Output for ColorTabbedPaneDemo.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-5%20SwingExamples/Screenshot%202025-05-22%20223412.png
 
 
 
