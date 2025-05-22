@@ -73,7 +73,7 @@ Output for ReverseStringDemo.java-https://github.com/annapurna77/Advanced-Java-P
 
 Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome():
 
-Output for PalindromeChecker.java-
+Output for PalindromeChecker.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213321.png
 
 Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
 
