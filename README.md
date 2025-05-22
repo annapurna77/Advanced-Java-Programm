@@ -127,7 +127,7 @@ Output for CountryCapitalList.java -https://github.com/annapurna77/Advanced-Jav
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and display the concerned color whenever the specific tab is selected in the Pan
 
-Output for ColorTabbedPaneCMY.java -
+Output for ColorTabbedPaneCMY.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-5%20SwingExamples/Screenshot%202025-05-22%20224035.png
 
 
 
