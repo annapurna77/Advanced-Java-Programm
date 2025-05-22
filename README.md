@@ -31,15 +31,19 @@ Output for ColorRemoveByIndex.java-https://github.com/annapurna77/Advanced-Java-
 Output for LinkedListIteratorExample.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221324.png
 
 2.Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
+
 Output for LinkedListReverseIteration.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221621.png
 
 3.Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
+
 Output for LinkedListOfferLast.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20221950.png
 
-4. Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )
+4.Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p))
+
 Output for LinkedListElementPositions.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20222319.png
 
 5 Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
+
 Output for LinkedListSwapElements.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20222536.png
 
 2a. Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
