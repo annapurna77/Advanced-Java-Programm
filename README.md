@@ -83,7 +83,8 @@ Output for WhitespaceRemover.java- https://github.com/annapurna77/Advanced-Java-
 
 Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined functioncapitalizeWords()
 
-Output for CapitalizeWords.java -
+Output for CapitalizeWords.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20220509.png
+
 Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
 
 Output for TruncateString.java -
