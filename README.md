@@ -61,7 +61,7 @@ Output for StringOperationsDemo3a.java-https://github.com/annapurna77/Advanced-J
 3b. String Exercise progams
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
 
-Output for NullOrWhitespaceCheck.java- https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213435.png
+Output for NullOrWhitespaceCheck.java-
 
 Q2. Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()
 
@@ -77,4 +77,4 @@ Output for PalindromeChecker.java-https://github.com/annapurna77/Advanced-Java-P
 
 Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
 
-Output for WhitespaceRemover.java-
+Output for WhitespaceRemover.java- https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213435.png
