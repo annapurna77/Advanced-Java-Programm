@@ -78,3 +78,23 @@ Output for PalindromeChecker.java-https://github.com/annapurna77/Advanced-Java-P
 Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
 
 Output for WhitespaceRemover.java- https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213435.png
+
+3c. String Exercise progams
+
+Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined functioncapitalizeWords()
+
+Output for CapitalizeWords.java -
+Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
+
+Output for TruncateString.java -
+Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
+
+Output for NumericCheck.java -
+Q9. Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
+
+Output for RandomStringGenerator.java -
+Q10. Write a Java Program for Counting the number of words in a string using user defined function countWords()
+
+Output for WordCounter.java -
+
+
