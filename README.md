@@ -69,7 +69,7 @@ Output for SubstringCounter.java-
 
 Q3. Write a Java Program for Reversing the characters in a string using user defined function reverseString().
 
-Output for ReverseStringDemo.java-
+Output for ReverseStringDemo.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213200.png
 
 Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case and punctuation) using user defined function isPalindrome():
 
