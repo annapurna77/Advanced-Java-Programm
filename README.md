@@ -65,7 +65,7 @@ Output for NullOrWhitespaceCheck.java- https://github.com/annapurna77/Advanced-J
 
 Q2. Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()
 
-Output for SubstringCounter.java-
+Output for SubstringCounter.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213041.png
 
 Q3. Write a Java Program for Reversing the characters in a string using user defined function reverseString().
 
