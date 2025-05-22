@@ -101,9 +101,9 @@ Q10. Write a Java Program for Counting the number of words in a string using use
 
 Output for WordCounter.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20221613.png
 
-4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
+4a. Basic hello program of Swing displaying the message Hello! VI A , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
 
-Output for HelloSwing.java -
+Output for HelloSwing.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-4%20SwingExamples/Screenshot%202025-05-22%20222646.png
 
 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).
 
