@@ -97,7 +97,7 @@ Q9. Write a Java Program for Creating a random string of a specified length usin
 Output for RandomStringGenerator.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20221301.png
 Q10. Write a Java Program for Counting the number of words in a string using user defined function countWords()
 
-Output for WordCounter.java -
+Output for WordCounter.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20221613.png
 
 
 
