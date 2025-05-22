@@ -56,10 +56,9 @@ Output for StringBufferVsStringBuilderPerformance.java -https://github.com/anna
 
 3a.Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
-Output for StringOperationsDemo3a.java-
+Output for StringOperationsDemo3a.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20212008.png
 
 3b. String Exercise progams
-
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
 
 Output for NullOrWhitespaceCheck.java-
