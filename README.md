@@ -216,7 +216,7 @@ Ouput for MySql_Query - https://github.com/annapurna77/Advanced-Java-Programm/bl
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
 
-Output for JDBC_to_append_fields - 
+Output for JDBC_to_append_fields - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-9%20%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9c.JDBCproject_using_MySQl/9cs.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
