@@ -186,7 +186,8 @@ Ouput for MySql_insert -https://github.com/annapurna77/Advanced-Java-Programm/bl
 
 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-Ouput for MySql_update - 
+Ouput for MySql_update -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-8%20%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8b.%20DatabaseTest%20_and_update/update.jpeg
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
