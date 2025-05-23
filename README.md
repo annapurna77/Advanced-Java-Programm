@@ -162,7 +162,7 @@ Output for Cookie - https://github.com/annapurna77/Advanced-Java-Programm/blob/m
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
-Output for Prime - 
+Output for Prime - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-6%20Servlet%20Program/6c.Prime/Prime.png
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
