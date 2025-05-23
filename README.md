@@ -192,7 +192,8 @@ Ouput for MySql_update -https://github.com/annapurna77/Advanced-Java-Programm/bl
 
 8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-Output for JDBC_to_append_file -
+Output for JDBC_to_append_file - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-8%20%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8c.JDBCproject_using_JSP/8cs.jpeg
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
