@@ -180,7 +180,7 @@ output for Cookie - https://github.com/annapurna77/Advanced-Java-Programm/blob/m
 
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-Ouput for MySql_insert -
+Ouput for MySql_insert -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-8%20%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8a.%20DatabaseTest%20_and_insert/select%20and%20insert.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
