@@ -204,7 +204,7 @@ Output for JDBC_to_update_file - https://github.com/annapurna77/Advanced-Java-Pr
 
 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
-Ouput for MySql_delete - 
+Ouput for MySql_delete - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-9%20%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9a.DatabaseTest%20_and_Delete/9a.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
