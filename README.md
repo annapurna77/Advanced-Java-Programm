@@ -23,6 +23,7 @@ Output for ColorSubList.java- https://github.com/annapurna77/Advanced-Java-Progr
 5.Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index
 
 Output for ColorRemoveByIndex.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20211518.png
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1c. Linked List Programs
 
