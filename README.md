@@ -49,17 +49,23 @@ Output for LinkedListElementPositions.java-https://github.com/annapurna77/Advanc
 
 Output for LinkedListSwapElements.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-1%20ListInterfaces/Screenshot%202025-05-21%20222536.png
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2a. Develop a java program for performing various string operations with different string handling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
 Output for StringOperationsDemo.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-2%20StringOperations/Screenshot%202025-05-21%20223522.png
 
-2.b Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
 
 Output for StringBufferVsStringBuilderPerformance.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-2%20StringOperations/Screenshot%202025-05-21%20223656.png
 
 3a.Develop a java program for performing various string operations with different string handling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
 Output for StringOperationsDemo3a.java-https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20212008.png
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3b. String Exercise progams
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
@@ -81,6 +87,8 @@ Output for PalindromeChecker.java-https://github.com/annapurna77/Advanced-Java-P
 Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
 
 Output for WhitespaceRemover.java- https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20213435.png
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3c. String Exercise progams
 
@@ -104,6 +112,8 @@ Q10. Write a Java Program for Counting the number of words in a string using use
 
 Output for WordCounter.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-3%20StringHandling_and_StringExercise/Screenshot%202025-05-22%20221613.png
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 4a. Basic hello program of Swing displaying the message Hello! VI A , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
 
 Output for HelloSwing.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-4%20SwingExamples/Screenshot%202025-05-22%20222646.png
@@ -115,6 +125,8 @@ Output for CountryButtonDemo.java -https://github.com/annapurna77/Advanced-Java
 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is pressed by implementing the event handling mechanism with addActionListener( ).
 
 Output for ImageButtonDemo.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-4%20SwingExamples/Screenshot%202025-05-22%20223039.png
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and display them on console whenever the countries are selected on the list.
 
@@ -131,6 +143,8 @@ Output for CountryCapitalList.java -https://github.com/annapurna77/Advanced-Jav
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and display the concerned color whenever the specific tab is selected in the Pan
 
 Output for ColorTabbedPaneCMY.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-5%20SwingExamples/Screenshot%202025-05-22%20224035.png
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
