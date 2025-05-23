@@ -222,7 +222,8 @@ Output for JDBC_to_append_fields - https://github.com/annapurna77/Advanced-Java-
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘S’ through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
 
-Output for JDBC_to_delete_the_records -
+Output for JDBC_to_delete_the_records - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-9%20%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9d.JDBCproject_using_MySQL/9ds.jpeg
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
