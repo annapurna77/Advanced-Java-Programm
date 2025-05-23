@@ -210,7 +210,7 @@ Ouput for MySql_delete - https://github.com/annapurna77/Advanced-Java-Programm/b
 
 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
 
-Ouput for MySql_Query - 
+Ouput for MySql_Query - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-9%20%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9b.DatabaseTest%20_and_Query/9b.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
