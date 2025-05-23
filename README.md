@@ -120,9 +120,13 @@ Output for WordCounter.java -https://github.com/annapurna77/Advanced-Java-Progr
 
 Output for HelloSwing.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-4%20SwingExamples/Screenshot%202025-05-22%20222646.png
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).
 
 Output for CountryButtonDemo.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-4%20SwingExamples/Screenshot%202025-05-22%20222903.png
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is pressed by implementing the event handling mechanism with addActionListener( ).
 
@@ -134,13 +138,19 @@ Output for ImageButtonDemo.java -https://github.com/annapurna77/Advanced-Java-P
 
 Output for CountryListDemo.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-5%20SwingExamples/Screenshot%202025-05-22%20223221.png
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and display the concerned color whenever the specific tab is selected in the Pan.
 
 Output for ColorTabbedPaneDemo.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-5%20SwingExamples/Screenshot%202025-05-22%20223412.png
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada, Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and display the capital of the countries on console whenever the countries are selected on the list.
 
 Output for CountryCapitalList.java -https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-5%20SwingExamples/Screenshot%202025-05-22%20223818.png
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and display the concerned color whenever the specific tab is selected in the Pan
 
