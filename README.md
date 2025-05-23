@@ -198,7 +198,8 @@ Output for JDBC_to_append_file - https://github.com/annapurna77/Advanced-Java-Pr
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
 
-Output for JDBC_to_update_file - 
+Output for JDBC_to_update_file - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-8%20%20Database_test%20_and_insert%20%2C%20update%20%7C%7CJDBC%20project%20using%20JSP/8d.JDBCproject_using_JSP/8ds.jpeg
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
