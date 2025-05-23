@@ -168,7 +168,7 @@ Output for Prime - https://github.com/annapurna77/Advanced-Java-Programm/blob/ma
 
 7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
 
-ouput for Session - 
+ouput for Session - https://github.com/annapurna77/Advanced-Java-Programm/blob/main/Exp-7%20Session%20and%20Cookie%20Management%20program%20using%20jsp/7a.SessionManagement.jpeg
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
